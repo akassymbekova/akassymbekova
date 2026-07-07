@@ -72,15 +72,6 @@ My core interests: **clean architecture**, **ML engineering**, and **distributed
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akassymbekova&show_icons=true&count_private=true&hide=issues&theme=default&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akassymbekova&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
----
-
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/akerke-kassymbekova/)
