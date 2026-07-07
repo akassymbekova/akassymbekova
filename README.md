@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="banner-2.png" alt="Akerke's banner" width="100%">
+  <img src="banner.png" alt="Akerke's banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Akerke</h1>
