@@ -90,6 +90,7 @@ My core interests: **clean architecture**, **ML engineering**, and **distributed
 |---|---|---|
 | [Fraud Detection System](https://github.com/akassymbekova/fraud_detection_diploma) | Production‑ready fraud detection with LightGBM, SHAP explainability, real‑time inference (FastAPI), and Streamlit dashboard. | LightGBM, SHAP, FastAPI, Streamlit, Docker |
 | [Order Management System](https://github.com/akassymbekova/order-management-system) | Distributed restaurant order management in Go — orders, inventory, sales analytics, clean architecture. | Go, PostgreSQL, Docker, REST |
+| [Healthcare AI assistant](https://github.com/akassymbekova/healthcare-ai-assistant) | End-to-end Deep Learning pipeline for medical text classification, chest X-ray analysis, generative AI, deployment optimization, and responsible AI. | scikit‑learn, deep learning, LSTM|
 | [Customer Churn Prediction](https://github.com/akassymbekova/customer-churn-prediction-spark) | Distributed ML pipeline on Amazon EMR with Spark ML — feature engineering, model training, ablation study. | PySpark, EMR, MLlib, S3 |
 | [Transport Complaints Classifier](https://github.com/akassymbekova/transport-complaints-classifier) | NLP classifier for public transport feedback using Logistic Regression with visualisations. | scikit‑learn, NLTK, matplotlib, Pandas |
 
